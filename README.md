@@ -15,3 +15,4 @@ Kedua program tersebut saya run dengan mengklik kanan lalu open with python dan 
 ![gambar1](step2)
 
 Ketiga, setelah saya sudah selesai membuat program tersebut, program tersebut saya push ke aplikasi git hub. Berikut cara saya mengupush program saya ke git hub :
+![gambar1](step3)
