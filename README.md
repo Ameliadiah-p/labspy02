@@ -5,13 +5,7 @@
  # TI.21.CA1
  # 312110134
 
-  # Algoritma Program Untuk Menginput 3 buah bilangan, dari ketiga bilangan tersebut tampilkan bilangan terbesarnya
-Masukan Jumlah N pengulangan
-Proses pengulangan sesuai jumlah pengulangan yang dinputkan
-Tampilkan pengulangan dengan nilai di bawah 0.5
-Selesai
-Setelah anda menegetahui Algoritma Dalam sebuah Program Maka Langkah Berikutnya Kita Membuat Flowchartnya. Berikut ini Flowchart Program
-Menginput 3 buah bilangan, dari ketiga bilangan tersebut tampilkan bilangan terbesarnya
+
 
 Pertama tama  untuk membuat program tersebut saya membuat flowchart terlebih dahulu. 
 Berikut ini adalah tampilan flowchart input 3 buah bilangan :
